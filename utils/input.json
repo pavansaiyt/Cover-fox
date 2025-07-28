@@ -1,0 +1,21 @@
+{
+
+    "Bike" : "Bike",
+    "BikeNumber": "AP31EM7845",
+    "TermLife" : "Term Life",
+    "Gender" : "Male",
+    "PhoneNumber" : "6309342186",
+    "Car" : "Car",
+    "CarNumber" :"AP29AB6111",
+    "ExpireStatus" : "Not Expired",
+    "CoverageStatus" : "I don't know",
+    "Health" : "Health",
+    "Relation1" : "Mother",
+    "Relation2" : "Father",
+    "Relation1Age" : "48",
+    "Relation2Age" : "54",
+    "UserAge" : "23",
+    "User" : "You",
+    "Pincode" : "504302"
+
+}
