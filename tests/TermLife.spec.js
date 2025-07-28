@@ -1,10 +1,10 @@
 import { test, expect } from '@playwright/test';
-const fs = require('fs');
+const fs = require('fs');// file system
 const { HomePage } = require('../pages/HomePage');
 const { TermLife } = require('../pages/TermLife');
 
 const inputdata = require('../utils/input.json')
-
+//Test Exexution
 test.describe('Term Life Insurance', () => {
     let page;
     let homePage;
