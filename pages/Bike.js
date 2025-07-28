@@ -10,7 +10,7 @@ export class Bike {
         this.idvLocator = this.page.locator("//div[@class='bpc-container']//div[@class='bike-plan-card--idv']/span");
         this.priceLocator = this.page.locator("//div[@class='bpc-container']//div[@class='currency-wrapper']//span");
     }
- 
+    
     async selectExpireStatus() {
         try {
             await this.expireArrowLocator.click();

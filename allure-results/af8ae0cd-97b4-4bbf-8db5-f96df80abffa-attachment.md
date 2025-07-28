@@ -1,0 +1,419 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Coverfox.com":
+    - /url: /
+    - img "Coverfox.com"
+  - list:
+    - listitem:
+      - text: Insurance
+      - list:
+        - listitem:
+          - text: Car
+          - list:
+            - listitem:
+              - link "Car Insurance":
+                - /url: /car-insurance/
+            - listitem:
+              - link "Companies":
+                - /url: /car-insurance/companies/
+            - listitem:
+              - link "Third party car insurance":
+                - /url: /car-insurance/third-party-car-insurance/
+            - listitem:
+              - link "Comprehensive car insurance":
+                - /url: /car-insurance/comprehensive-car-insurance/
+            - listitem:
+              - link "Car insurance calculator":
+                - /url: /car-insurance/car-insurance-premium-calculator/
+            - listitem:
+              - link "New car insurance":
+                - /url: /car-insurance/new/
+            - listitem:
+              - link "Zero Dep Car Insurance":
+                - /url: /car-insurance/zero-depreciation/
+            - listitem:
+              - link "Buy Car Insurance":
+                - /url: /car-insurance/buy-car-insurance/
+            - listitem:
+              - link "Compare Car Insurance":
+                - /url: /car-insurance/compare-car-insurance-online/
+            - listitem:
+              - link "Car Insurance Articles":
+                - /url: /car-insurance/articles/
+            - listitem:
+              - link "Cashless Garages":
+                - /url: /car-insurance/cashless-garages/
+        - listitem:
+          - text: Bike
+          - list:
+            - listitem:
+              - link "Two Wheeler Insurance":
+                - /url: /two-wheeler-insurance/
+            - listitem:
+              - link "Two Wheeler Insurance Companies":
+                - /url: /two-wheeler-insurance/companies/
+            - listitem:
+              - link "Two Wheeler Insurance Claim":
+                - /url: /two-wheeler-insurance/two-wheeler-insurance-claim/
+            - listitem:
+              - link "Two Wheeler premium Calculator":
+                - /url: /two-wheeler-insurance/two-wheeler-insurance-premium-calculator/
+            - listitem:
+              - link "Third party Bike insurance":
+                - /url: /two-wheeler-insurance/third-party-two-wheeler-insurance/
+            - listitem:
+              - link "Multiyear Bike Insurance":
+                - /url: /two-wheeler-insurance/multiyear-bike-insurance/
+            - listitem:
+              - link "Bike Insurance Articles":
+                - /url: /two-wheeler-insurance/articles/
+        - listitem:
+          - text: Health
+          - list:
+            - listitem:
+              - link "Health Insurance":
+                - /url: /health-insurance/
+            - listitem:
+              - link "Companies":
+                - /url: /health-insurance/companies/
+            - listitem:
+              - link "Mediclaim Policy":
+                - /url: /health-insurance/mediclaim-policy/
+            - listitem:
+              - link "Individual Health Insurance plans":
+                - /url: /health-insurance/individual-health-insurance/
+            - listitem:
+              - link "Critical illness insurance":
+                - /url: /health-insurance/critical-illness-insurance/
+            - listitem:
+              - link "Senior citizen health insurance":
+                - /url: /health-insurance/senior-citizens-health-insurance/
+            - listitem:
+              - link "Arogya sanjeevani policy":
+                - /url: /health-insurance/arogya-sanjeevani-policy/
+            - listitem:
+              - link "Health Insurance Articles":
+                - /url: /health-insurance/articles/
+            - listitem:
+              - link "Network Hospitals":
+                - /url: /health-insurance/network-hospitals/
+        - listitem:
+          - text: Term
+          - list:
+            - listitem:
+              - link "Term Insurance":
+                - /url: /term-insurance/
+            - listitem:
+              - link "Companies":
+                - /url: /term-insurance/term-insurance-companies/
+            - listitem:
+              - link "Life insurance":
+                - /url: /life-insurance/
+            - listitem:
+              - link "Life Insurance calculator":
+                - /url: /life-insurance/life-insurance-calculator/
+            - listitem:
+              - link "Term Insurance calculator":
+                - /url: /term-insurance/term-insurance-calculator/
+            - listitem:
+              - link "Life Insurance Plans":
+                - /url: /life-insurance-plans/
+            - listitem:
+              - link "1 crore term insurance":
+                - /url: /term-insurance/articles/1-crore-term-insurance/
+            - listitem:
+              - link "Compare Term Insurance":
+                - /url: /term-insurance/term-insurance-comparison/
+            - listitem:
+              - link "Buy Term Insurance":
+                - /url: /term-insurance/buy-term-insurance/
+            - listitem:
+              - link "Term Insurance Renewals":
+                - /url: /life-insurance-renewals/
+            - listitem:
+              - link "Term Insurance Articles":
+                - /url: /term-insurance/articles/
+            - listitem:
+              - link "Life Insurance Articles":
+                - /url: /life-insurance/articles/
+    - listitem:
+      - text: About Coverfox
+      - list:
+        - listitem:
+          - link "About us":
+            - /url: /about/
+        - listitem:
+          - link "Insurance Blog":
+            - /url: /articles/
+    - listitem:
+      - link "Claims":
+        - /url: /submit-claim-request/
+  - list:
+    - listitem:
+      - link "Contact us":
+        - /url: /contact/
+    - listitem:
+      - link " Login":
+        - /url: /user-login/
+- heading "Insurance Made Simple for You" [level=1]
+- list:
+  - listitem: Health
+  - listitem: Car
+  - listitem: Bike
+  - listitem: Term Life
+- heading "Most Reliable Term Life Plans at Lowest Rates" [level=2]
+- text: Select Gender Male Female Your Age 23 years  Your Age 
+- textbox "Search..."
+- text: 18 years 19 years 20 years 21 years 22 years 23 years 24 years 25 years 26 years 27 years 28 years 29 years 30 years 31 years 32 years 33 years 34 years 35 years 36 years 37 years 38 years 39 years 40 years 41 years 42 years 43 years 44 years 45 years 46 years 47 years 48 years 49 years 50 years 51 years 52 years 53 years 54 years 55 years 56 years 57 years 58 years 59 years 60 years 61 years 62 years 63 years 64 years 65 years 66 years 67 years 68 years 69 years 70 years Name
+- textbox "Name": Pavan
+- separator
+- text: MOBILE NUMBER +91
+- textbox: "6309342186"
+- separator
+- button "View Quotes"
+- text: By clicking I agree to all
+- link "T&C":
+  - /url: https://www.coverfox.com/terms-and-conditions/
+- text: 
+- heading "Verify your number." [level=4]
+- paragraph: Please enter the 6 digit OTP sent on6309342186.
+- text: Enter OTP Number
+- textbox "Enter OTP Number"
+- separator
+- button "SUBMIT"
+- text: Resend OTP Entered wrong number? Claim assistance FREE 10 Lakh+ customers served 4.7/5
+- img "star"
+- img "star"
+- img "star"
+- img "star"
+- img "half star"
+- text: 4.6/5
+- img "star"
+- img "star"
+- img "star"
+- img "star"
+- img "half star"
+- text: Highest rated insurance website 40+ Insurer Partners Trust Coverfox 50 Lakh+ Indians Love & Prefer Coverfox 12+ TERM INSURERS
+- img "Licensed By IRDAI"
+- text: LICENSED BY IRDAI
+- img
+- text: IRDA/ DB 556/ 13 STEP BY STEP PROCESS How to buy Term Insurance
+- list:
+  - listitem: Fill in your basic details
+  - listitem: Compare prices and customize plan
+  - listitem: Make Payment and schedule medical checkup to receive policy
+- text: JUST FOR YOU Coverfox.com Advantage FREE
+- img "Nominee Assistance Program"
+- text: "Nominee Assistance Program For Coverfox Life Insurance Customers WHAT YOU GET :"
+- list:
+  - listitem: We ensure your nominee gets the rightful claim
+  - listitem: All your documents managed in a single app
+  - listitem: We help you to create your Will
+- text: Available for everyone who buys Life Insurance from Coverfox. INSURANCE 101 Term (Life) Insurance Term plan looks after your family’s financial health in case something happens to you. 01 Get high cover at modest premium rates 02 Avail tax benefit on premium under section 80C 03 Covers critical diseases & accidental death with addons 04 Covers you even if you’re a smoker. No discrimination here VITAL INFO Things you need to know
+- paragraph: With plethora of options available for Term Insurance here are few points to consider while buying the plan that best suits you
+- text: Comprehensive Cover Choose a premium that is sufficient enough to covers all your debts as well as aid your family members to a comfortable lifestyle. The premium too should be pocket-friendly! Claim Settlement Ratio It is the percentage of the total claims settled against the total claims raised for a company. Higher the ratio, higher are the chances of your claim getting settled. CUSTOMISATION What all Term insurance covers? Risk Term insurance covers all kinds of death except suicide within 1st year of policy purchase Disease Critical Illness addon provides you with an additional amount if you are diagnosed with a medical illness pre-specified in the policy Accident Accidental Death addon offers additional cover if death occurs due to an accident Premium Waived off Waiver of Premium addon waives off your premiums in the event of disability or critical illness during the term of your premium PEOPLE LOVE US You happy. We happy! After much search, finally I found all insurance companies under one roof on Coverfox.com. Easy to compare, choose, pay and get policy in few seconds! Excellent service!
+- img
+- text: Rahul Mehta Buisness Owner It was a great experience, no commission, no waiting, some clicks and almost done. It took me sometime to buy my term insurance. Totally transparent.
+- img
+- text: Shruti Chaudhary Product Manager I'm impressed. You kept your word. Insurance process was completed in less than 4 minutes for my bike. Would recommend Coverfox.com to everyone who asks.
+- img
+- text: Kunal Kishore Business Consultant, Travel StartUp Amazing customer service! Prompt response to all the queries and complaints and very user friendly UI with helpful executives.
+- img
+- text: Reha Rehwal Marketing Manager After much search, finally I found all insurance companies under one roof on Coverfox.com. Easy to compare, choose, pay and get policy in few seconds! Excellent service!
+- img
+- text: Rahul Mehta Buisness Owner It was a great experience, no commission, no waiting, some clicks and almost done. It took me sometime to buy my term insurance. Totally transparent.
+- img
+- text: Shruti Chaudhary Product Manager I'm impressed. You kept your word. Insurance process was completed in less than 4 minutes for my bike. Would recommend Coverfox.com to everyone who asks.
+- img
+- text: Kunal Kishore Business Consultant, Travel StartUp Amazing customer service! Prompt response to all the queries and complaints and very user friendly UI with helpful executives.
+- img
+- text: Reha Rehwal Marketing Manager
+- button "prev"
+- button
+- button
+- button
+- button
+- button "next"
+- text: FAQ's Ask us anything, we’d love to answer! +
+- paragraph: What are the things you need to know when investing in a Term Insurance plan?
+- paragraph: "You take a term insurance plan with the sole purpose of ensuring that your family members are adequately supported in case of your death. In such a sensitive case, you must always weigh your options on all possible parameters:"
+- list:
+  - listitem: "Coverage: Be sure that the coverage being offered will be sufficient for your family or the nominated person. Never ever compromise on it for the sake of a lower premium."
+  - listitem: "Claim Settlement Ratio: The insurer's claim settlement ratio and market reputation will ensure that your claims are honored when needed, so always keep that in mind."
+  - listitem: "Inflation: Keeping inflation in mind, always consider how sufficient the coverage amount will be in the future."
+  - listitem: "Add-on feature: Always supplement your term insurance plan with suitable riders for the most comprehensive coverage."
+- text: +
+- paragraph: What is the right age to buy a Term plan?
+- paragraph: "There really is no right age for making an investment when it comes to Term Insurance. Like any other insurance plan, the earlier you opt for it, the better. If you do manage to buy the plan at an early age:"
+- list:
+  - listitem: The premiums will be relatively lower. Now that's a win-win situation!
+  - listitem: Your liabilities are at a low hence you might not require to insure a big sum which will eventually result in lesser premiums.
+  - listitem: As health risks largely depend on the age, getting covered is easier and hassle-free. Who doesn't like that?
+- text: +
+- paragraph: In an unfortunate event of your death, how can your nominee claim your Term plan?
+- paragraph: "If you have invested in a Term Plan, it is advisable to keep your nominee aware of the situation so that if and when the time comes, he/she can claim the policy for which you have been shelling premium every year. To make the claim, the following steps need to be taken:"
+- list:
+  - listitem: Every insurance company has a pre-set procedure defined for making a claim. Hence, following your death (and yeah, even though it sounds scary!), your nominee has to intimate the insurance company of the same.
+  - listitem: All necessary documents including Claim Form, Death Certificate, original policy documents, hospital and medical records and bank account details of the nominee, etc. are to be submitted to the insurance company for further processing.
+  - listitem: Always prefer to communicate with the insurance company through written medium like an email to maintain a track of your conversation. You never know when it might come in handy (though we hope it doesn't).
+- contentinfo:
+  - list:
+    - listitem:
+      - text: Secure
+      - link "DMCA.com Protection Status":
+        - /url: //www.dmca.com/Protection/Status.aspx?ID=9acaadbe-78db-46ef-babe-3b0bba57bf80
+    - listitem:
+      - text: Licensed By
+      - link "Insurance Regulatory and Development Authority":
+        - /url: https://www.coverfox.com/irda-license/
+    - listitem: Payment Options
+  - text: +
+  - link "General Insurance":
+    - /url: https://www.coverfox.com/general-insurance/
+  - list:
+    - listitem:
+      - link "Car Insurance":
+        - /url: https://www.coverfox.com/car-insurance/
+    - listitem:
+      - link "Bike Insurance":
+        - /url: https://www.coverfox.com/two-wheeler-insurance/
+    - listitem:
+      - link "Motor Insurance":
+        - /url: https://www.coverfox.com/motor-insurance/
+    - listitem:
+      - link "Car Insurance Premium Calculator":
+        - /url: https://www.coverfox.com/car-insurance/car-insurance-premium-calculator/
+  - link "Health Insurance":
+    - /url: https://www.coverfox.com/health-insurance/
+  - list:
+    - listitem:
+      - link "Family Health Insurance":
+        - /url: https://www.coverfox.com/health-insurance/family-health-insurance-plan/
+    - listitem:
+      - link "Senior Citizens Insurance":
+        - /url: https://www.coverfox.com/health-insurance/senior-citizens-health-insurance/
+    - listitem:
+      - link "Group Insurance":
+        - /url: https://www.coverfox.com/health-insurance/group-health-insurance-policy/
+    - listitem:
+      - link "Corona Rakshak Policy":
+        - /url: https://www.coverfox.com/health-insurance/corona-rakshak-policy/
+    - listitem:
+      - link "Corona Kavach Policy":
+        - /url: https://www.coverfox.com/health-insurance/corona-kavach-policy/
+    - listitem:
+      - link "Super Topup Plan":
+        - /url: https://www.coverfox.com/health-plan/super-topup
+  - link "LIFE INSURANCE":
+    - /url: https://www.coverfox.com/life-insurance/
+  - list:
+    - listitem:
+      - link "Term Insurance":
+        - /url: https://www.coverfox.com/term-insurance/
+    - listitem:
+      - link "ULIP":
+        - /url: https://www.coverfox.com/life-insurance/ulip-plans/
+    - listitem:
+      - link "e-Term Plan":
+        - /url: https://www.coverfox.com/term-insurance/#eterm-plan
+    - listitem:
+      - link "1 Cr Term Insurance":
+        - /url: https://www.coverfox.com/term-insurance/articles/1-crore-term-insurance/
+  - text: Insurance in Hindi
+  - list:
+    - listitem:
+      - link "कार इन्शुरन्स":
+        - /url: https://www.coverfox.com/car-insurance/hindi/
+    - listitem:
+      - link "टू व्हीलर इंश्योरेंस":
+        - /url: https://www.coverfox.com/two-wheeler-insurance/hindi/
+    - listitem:
+      - link "टर्म इंश्योरेंस":
+        - /url: https://www.coverfox.com/term-insurance/hindi/
+    - listitem:
+      - link "हेल्थ इंश्योरेंस":
+        - /url: https://www.coverfox.com/health-insurance/hindi/
+    - listitem:
+      - link "मेडिक्लेम पॉलिसी":
+        - /url: https://www.coverfox.com/health-insurance/hindi/mediclaim-policy/
+  - text: Other Links
+  - list:
+    - listitem:
+      - link "Learn About Insurance":
+        - /url: https://www.coverfox.com/learn/
+    - listitem:
+      - link "Network Hospitals":
+        - /url: https://www.coverfox.com/health-insurance/network-hospitals/
+    - listitem:
+      - link "Cashless Garages":
+        - /url: https://www.coverfox.com/car-insurance/cashless-garages/
+    - listitem:
+      - link "Get Android App":
+        - /url: https://play.google.com/store/apps/details?id=com.coverfox.app
+    - listitem:
+      - link "Get iOS App":
+        - /url: https://apps.apple.com/in/app/coverfox-insurance/id1616646614
+  - list:
+    - listitem:
+      - link "Learn":
+        - /url: /learn/
+    - listitem:
+      - link "About Us":
+        - /url: /about/
+    - listitem:
+      - link "Contact Us":
+        - /url: /contact/
+    - listitem:
+      - link "Careers":
+        - /url: /careers/
+    - listitem:
+      - link "Sitemap":
+        - /url: /sitemap/
+    - listitem:
+      - link "FAQs":
+        - /url: /faqs/
+  - link:
+    - /url: https://www.facebook.com/Coverfox.Insurance/
+  - link:
+    - /url: https://twitter.com/coverfox
+  - link:
+    - /url: https://www.linkedin.com/company/coverfox-insurance
+  - link:
+    - /url: https://www.youtube.com/channel/UCdRU43Vg0L5O3JytODpFATQ/feed/
+  - link:
+    - /url: https://www.instagram.com/coverfox_insurance/
+  - link:
+    - /url: https://github.com/Coverfox
+  - link "Become a Partner Become a Coverdrive POS Agent":
+    - /url: https://pos.coverfox.com/?utm_source=Coverfox&utm_medium=organic&utm_campaign=banner
+    - text: Become a Partner Become a Coverdrive POS Agent
+    - img
+  - paragraph: "Coverfox Insurance Broking Pvt. Ltd. : C Wing, 6111-6118, 6th Floor, Oberoi Garden Estate, Chandivali Farm Road, Chandivali, Andheri (East), Mumbai - 400072"
+  - paragraph:
+    - text: Licence No.
+    - link "478":
+      - /url: https://www.coverfox.com/irda-license/
+    - text: ", IRDA Direct Broker Code:"
+    - link "IRDA/ DB 556/ 13":
+      - /url: https://www.coverfox.com/irda-license/
+    - text: ", Valid till: 26/12/2025 , CIN: U66000MH2013PTC243810"
+  - list:
+    - listitem:
+      - link "Shipping & Delivery Policy":
+        - /url: /shipping-and-delivering/
+    - listitem:
+      - link "Privacy Policy":
+        - /url: /privacy-policy/
+    - listitem:
+      - link "Legal Policies":
+        - /url: /legal-policies/
+    - listitem:
+      - link "Cancellation & Refund":
+        - /url: /cancellation-and-refund-policy/
+    - listitem:
+      - link "Terms & Conditions":
+        - /url: /terms-and-conditions/
+  - text: Copyright © 2025 Coverfox.com. All Rights Reserved
+```

@@ -1,0 +1,9 @@
+Error selecting additional details: locator.click: Test ended.
+Call log:
+  - waiting for locator('//div[@class=\'cf-button-radio__option  \']').last()
+
+    at TermLife.selectDetials (C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\pages\TermLife.js:52:52)
+    at C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\tests\TermLife.spec.js:40:24
+Error selecting salary: locator.click: Target page, context or browser has been closed
+    at TermLife.selectSalary (C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\pages\TermLife.js:62:54)
+    at C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\tests\TermLife.spec.js:42:24

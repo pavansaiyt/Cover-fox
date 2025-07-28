@@ -1,0 +1,6 @@
+Error storing term life insurance data: locator.textContent: Test ended.
+Call log:
+  - waiting for locator('.price strong')
+
+    at TermLife.storeTermLifeInsurance (C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\pages\TermLife.js:92:51)
+    at C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\tests\TermLife.spec.js:58:24

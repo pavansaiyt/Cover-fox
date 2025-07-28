@@ -1,0 +1,12 @@
+Error selecting education: locator.click: Test ended.
+Call log:
+  - waiting for locator('.drop-down').last()
+
+    at TermLife.selectEducation (C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\pages\TermLife.js:72:49)
+    at C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\tests\TermLife.spec.js:47:24
+Error clicking button with text "See Quotes": locator.click: Target page, context or browser has been closed
+    at TermLife.selectButton (C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\pages\TermLife.js:82:51)
+    at C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\tests\TermLife.spec.js:49:24
+Error clicking button with text "Confirm": locator.click: Target page, context or browser has been closed
+    at TermLife.selectButton (C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\pages\TermLife.js:82:51)
+    at C:\Users\2414352\Downloads\Hackathon Project 6\Hackathon Project\tests\TermLife.spec.js:51:24
